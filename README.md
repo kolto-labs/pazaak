@@ -13,7 +13,7 @@ The card game from KOTOR, playable in Discord and in the browser, with a fake-cr
 ## Contracts
 
 - Sign-in: client of the org-wide OpenID Connect service. No login code lives here.
-- Discord plumbing: `kolto-bot-kit`.
+- Discord plumbing: `cantina` (packages `@kolto-labs/cantina-*`).
 
 ## Status
 
